@@ -5,7 +5,7 @@ var car = prompt(
 );
 if (car == "Land_Cruiser") {
   console.log(
-    "Arai!!! MaaLik foran Nikah karo :))!!...Mubarak ho/Mubarak ho:)/Mubarak ho:)/Mubarak ho:)"
+    "Arai!!! MaaLik foran Nikah karo :))!!...Mubarak ho\nMubarak ho:)\nMubarak ho:)\nMubarak ho:)"
   );
 } else if (car == "Civic") {
   console.log("Rishta Done :}..");
